@@ -1,0 +1,6 @@
+name = "Personal"
+uuid = "c21c491c-bbf7-47c3-9bc7-334e7fc8dcc0"
+repo = "https://github.com/braydenbarton/personal-julia-registry.git"
+description = "My personal package registry"
+
+[packages]
