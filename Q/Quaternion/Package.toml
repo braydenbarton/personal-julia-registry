@@ -1,0 +1,3 @@
+name = "Quaternion"
+uuid = "74eca876-718d-486b-80f4-5251a73a300f"
+repo = "https://github.com/braydenbarton/Quaternion.jl.git"

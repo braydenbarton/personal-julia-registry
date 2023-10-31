@@ -4,4 +4,5 @@ repo = "https://github.com/braydenbarton/personal-julia-registry.git"
 description = "My personal package registry"
 
 [packages]
+74eca876-718d-486b-80f4-5251a73a300f = { name = "Quaternion", path = "Q/Quaternion" }
 7e4a0df4-8c06-47aa-b1e5-64d0c64e8acc = { name = "Units", path = "U/Units" }
