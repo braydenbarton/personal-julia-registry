@@ -4,3 +4,4 @@ repo = "https://github.com/braydenbarton/personal-julia-registry.git"
 description = "My personal package registry"
 
 [packages]
+7e4a0df4-8c06-47aa-b1e5-64d0c64e8acc = { name = "Units", path = "U/Units" }
